@@ -64,7 +64,7 @@ const vocabulary = [
   { word: "poki", definition: "container, bowl, glass, cup, box, etc", etymology: "", note: "" },
   { word: "toki", definition: "language, to talk, to speak", etymology: "", note: "" },
   { word: "soweli", definition: "land-dwelling mammel", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "kalama", definition: "sound, noise, voice", etymology: "croatian galama meaning buzz, noise", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
