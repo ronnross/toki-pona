@@ -67,8 +67,8 @@ const vocabulary = [
   { word: "kalama", definition: "sound, noise, voice", etymology: "croatian galama meaning buzz, noise", note: "" },
   { word: "sama", definition: "same, like", etymology: "esperanto", note: "" },
   { word: "pali", definition: "work, make", etymology: "esperanto fari", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "lape", definition: "sleep, rest", etymology: "dutch slapen meaning sleep", note: "" },
+  { word: "la", definition: "between adverb or phrase of context and rest of sentence", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
