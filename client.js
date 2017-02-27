@@ -69,6 +69,13 @@ const vocabulary = [
   { word: "pali", definition: "work, make", etymology: "esperanto fari", note: "" },
   { word: "lape", definition: "sleep, rest", etymology: "dutch slapen meaning sleep", note: "" },
   { word: "la", definition: "between adverb or phrase of context and rest of sentence", etymology: "", note: "" },
+  { word: "mun", definition: "moon", etymology: "english moon", note: "" },
+  { word: "pini", definition: "end, finish", etymology: "english finish or esperanto finito", note: "" },
+  { word: "suwi", definition: "sweet, candy", etymology: "english sweet", note: "" },
+  { word: "walo", definition: "white or light colored", etymology: "Finnish valo meaning light", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
