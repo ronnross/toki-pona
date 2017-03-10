@@ -75,8 +75,8 @@ const vocabulary = [
   { word: "suwi", definition: "sweet, candy", etymology: "english sweet", note: "" },
   { word: "walo", definition: "white or light colored", etymology: "Finnish valo meaning light", note: "" },
   { word: "kasi", definition: "plant, herb, tree, leaf, wood", etymology: "finish kasvi meaning plant", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "esun", definition: "market, shop", etymology: "", note: "" },
+  { word: "pan", definition: "grain, cereal", etymology: "latin for bread", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
