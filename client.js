@@ -60,6 +60,7 @@ const vocabulary = [
   { word: "kama", definition: "to come, to happen, to cause", etymology: "", note: "" },
   { word: "kiwen", definition: "stone, rock, hard like a rock", etymology: "", note: "" },
   { word: "kon", definition: "air, atmosphere, spirit, wind", etymology: "", note: "" },
+  { word: "ko", definition: "squishy substance, paste, powder, gum", etymology: "english goo", note: ""},
   { word: "pana", definition: "to give, to send, to release, to emit", etymology: "", note: "" },
   { word: "poki", definition: "container, bowl, glass, cup, box, etc", etymology: "", note: "" },
   { word: "toki", definition: "language, to talk, to speak", etymology: "", note: "" },
