@@ -77,6 +77,10 @@ const vocabulary = [
   { word: "kasi", definition: "plant, herb, tree, leaf, wood", etymology: "finish kasvi meaning plant", note: "" },
   { word: "esun", definition: "market, shop", etymology: "", note: "" },
   { word: "pan", definition: "grain, cereal", etymology: "latin for bread", note: "" },
+  { word: "pi", definition: "of, belonging to", etymology: "welsh pi-au meaning to own", note: "" },
+  { word: "alasa", definition: "to gather, to collect food, to hunt", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
