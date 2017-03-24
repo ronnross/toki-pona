@@ -80,6 +80,8 @@ const vocabulary = [
   { word: "pi", definition: "of, belonging to", etymology: "welsh pi-au meaning to own", note: "" },
   { word: "alasa", definition: "to gather, to collect food, to hunt", etymology: "", note: "" },
   { word: "kipisi", definition: "to cut", etymology: "swahili kipisi meaning little piece of wood", note: "" },
+  { word: "namako", definition: "extra, additional, spice", etymology: "", note: "" },
+  { word: "pimeja", definition: "black or dark-colored", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
