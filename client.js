@@ -82,7 +82,7 @@ const vocabulary = [
   { word: "kipisi", definition: "to cut", etymology: "swahili kipisi meaning little piece of wood", note: "" },
   { word: "namako", definition: "extra, additional, spice", etymology: "", note: "" },
   { word: "pimeja", definition: "black or dark-colored", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "e", definition: "introduces a direct object", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
