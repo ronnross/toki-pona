@@ -90,7 +90,7 @@ const vocabulary = [
   { word: "kule", definition: "color, paint", etymology: "", note: "" },
   { word: "poka", definition: "next to, in the accompaniment of", etymology: "", note: "" },
   { word: "kute", definition: "listen, hear, ear", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "jelo", definition: "yellow", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
