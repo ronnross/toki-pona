@@ -91,7 +91,7 @@ const vocabulary = [
   { word: "poka", definition: "next to, in the accompaniment of", etymology: "", note: "" },
   { word: "kute", definition: "listen, hear, ear", etymology: "", note: "" },
   { word: "jelo", definition: "yellow", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "kulupu", definition: "group, community, people, public", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
