@@ -92,6 +92,12 @@ const vocabulary = [
   { word: "kute", definition: "listen, hear, ear", etymology: "", note: "" },
   { word: "jelo", definition: "yellow", etymology: "", note: "" },
   { word: "kulupu", definition: "group, community, people, public", etymology: "", note: "" },
+  { word: "linja", definition: "line, rope, string, hair, chord, chain", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
