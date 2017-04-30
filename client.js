@@ -95,7 +95,7 @@ const vocabulary = [
   { word: "linja", definition: "line, rope, string, hair, chord, chain", etymology: "", note: "" },
   { word: "meli", definition: "female", etymology: "", note: "" },
   { word: "sitelen", definition: "picture, draw, write", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "supa", definition: "horizontal surface, furniture, table, chair, pillow, floor", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
