@@ -98,6 +98,12 @@ const vocabulary = [
   { word: "supa", definition: "horizontal surface, furniture, table, chair, pillow, floor", etymology: "", note: "" },
   { word: "sijelo", definition: "body", etymology: "", note: "" },
   { word: "seme", definition: "what, which", etymology: "", note: "" },
+  { word: "monsi", definition: "back, behind, butt", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
