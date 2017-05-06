@@ -99,7 +99,7 @@ const vocabulary = [
   { word: "sijelo", definition: "body", etymology: "", note: "" },
   { word: "seme", definition: "what, which", etymology: "", note: "" },
   { word: "monsi", definition: "back, behind, butt", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "noka", definition: "leg, foot", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
