@@ -96,8 +96,8 @@ const vocabulary = [
   { word: "meli", definition: "female", etymology: "", note: "" },
   { word: "sitelen", definition: "picture, draw, write", etymology: "", note: "" },
   { word: "supa", definition: "horizontal surface, furniture, table, chair, pillow, floor", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "sijelo", definition: "body", etymology: "", note: "" },
+  { word: "seme", definition: "what, which", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
