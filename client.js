@@ -152,7 +152,7 @@ const phrases = [
   { phrase: "telo ona", meaning: "his/her/its water" },
   { phrase: "len jan", meaning: "somebody's clothes" },
   { phrase: "seli suno", meaning: "sun's heat" },
-  { phrase: "", meaning: "" },
+  { phrase: "ante", meaning: "difference, otherwise, change" },
   { phrase: "", meaning: "" },
   { phrase: "", meaning: "" },
   { phrase: "", meaning: "" },
