@@ -102,7 +102,7 @@ const vocabulary = [
   { word: "noka", definition: "leg, foot", etymology: "", note: "" },
   { word: "o", definition: "Hey! (calling somebody's attention", etymology: "", note: "" },
   { word: "nasin", definition: "road, way, method", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "wawa", definition: "power, strength", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
