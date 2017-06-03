@@ -104,7 +104,14 @@ const vocabulary = [
   { word: "nasin", definition: "road, way, method", etymology: "", note: "" },
   { word: "wawa", definition: "power, strength", etymology: "", note: "" },
   { word: "waso", definition: "bird", etymology: "", note: "" },
+  { word: "nena", definition: "bump, hill, nose", etymology: "", note: "" },
+  { word: "lipu", definition: "flat bendable thing, paper, card", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  { word: "", definition: "", etymology: "", note: "" },
+  
 ]
 
 const phrases = [
