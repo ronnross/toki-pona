@@ -103,7 +103,7 @@ const vocabulary = [
   { word: "o", definition: "Hey! (calling somebody's attention", etymology: "", note: "" },
   { word: "nasin", definition: "road, way, method", etymology: "", note: "" },
   { word: "wawa", definition: "power, strength", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "waso", definition: "bird", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
 ]
 
