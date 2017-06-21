@@ -399,7 +399,7 @@ const vocabulary = [
     note: ""
   },
   { word: "laso", definition: "blue and green", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "luka", definition: "arm, hand, 5", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" }
