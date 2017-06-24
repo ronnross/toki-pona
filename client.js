@@ -400,7 +400,7 @@ const vocabulary = [
   },
   { word: "laso", definition: "blue and green", etymology: "", note: "" },
   { word: "luka", definition: "arm, hand, 5", etymology: "", note: "" },
-  { word: "", definition: "", etymology: "", note: "" },
+  { word: "lupa", definition: "hold, door, window", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" },
   { word: "", definition: "", etymology: "", note: "" }
 ];
